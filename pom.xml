@@ -21,7 +21,7 @@
         <log4j-version>1.2.17</log4j-version>
         <mybatisplus-version>3.2.0</mybatisplus-version>
         <hutool.version>4.6.6</hutool.version>
-        <mysql.version>8.0.17</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <pinyin4j-version>2.5.1</pinyin4j-version>
     </properties>
 
