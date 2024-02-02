@@ -108,7 +108,7 @@
         <dependency>
             <groupId>com.ibeetl</groupId>
             <artifactId>beetl</artifactId>
-            <version>3.0.16.RELEASE</version>
+            <version>3.15.13.RELEASE</version>
         </dependency>
         <!--自动生成结束-->
         <!--热部署-->
